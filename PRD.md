@@ -35,7 +35,7 @@
 
 ### 使用者交互及设计
 
-![交互](jiaohu.jpg)
+![交互](https://upload-images.jianshu.io/upload_images/14325233-71e56ef710a7a90a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000)
 
 ### 问题
 
