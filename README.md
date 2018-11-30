@@ -57,7 +57,7 @@
 &emsp;（2）未登录：
 
  &emsp;&emsp;&emsp; 只能使用编辑文章，文章列表视图设置，标签，分享文章至其他平台功能。不能使用云端，账号功能。
- 2. 激活编辑界面时自动弹出tab，再次点击编辑界面空白地区时弹出输入法。
+2. 激活编辑界面时自动弹出tab，再次点击编辑界面空白地区时弹出输入法。
 
 ### 使用者交互及设计
 ![使用交互.jpg](https://upload-images.jianshu.io/upload_images/14325233-82c92a0a00f6623a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
