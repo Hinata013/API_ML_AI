@@ -47,9 +47,11 @@
 
 ### 产品功能架构
 ![产品功能架构.jpg](https://upload-images.jianshu.io/upload_images/14325233-aa879b91f77a0d7a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+[产品功能架构](#产品功能架构)
 
 ### 流程图
 ![流程图.jpg](https://upload-images.jianshu.io/upload_images/14325233-a05a43995d330ca1.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+[流程图](#流程图)
 ### 全局说明
 1. 功能权限分为登录/未登录两个状态。
 （1）登录：登录状态下可进行app内所有操作。
@@ -58,6 +60,7 @@
 
 ### 使用者交互及设计
 ![使用交互.jpg](https://upload-images.jianshu.io/upload_images/14325233-82c92a0a00f6623a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+[使用者交互](#index)
 ### 迭代功能
 - 上线搜索功能
 - 语音朗读功能
