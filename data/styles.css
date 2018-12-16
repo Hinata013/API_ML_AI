@@ -11,7 +11,11 @@
 }
 .box_2 {
 }
+.box_3 {
+}
 .ellipse {
+}
+.image {
 }
 .placeholder {
 }
@@ -71,6 +75,8 @@
 }
 .checkbox {
   text-align:left;
+}
+._流程形状 {
 }
 .table_cell {
 }
