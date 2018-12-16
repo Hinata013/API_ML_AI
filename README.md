@@ -60,9 +60,11 @@
 
 
 ### 产品功能架构
+[流程图&功能构架](https://sssakuraiii.github.io/API_ML_AI/. )
 ![产品功能架构.jpg](https://upload-images.jianshu.io/upload_images/14325233-2fbcaa25c2d706bb.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 流程图
+[流程图&功能构架](https://sssakuraiii.github.io/API_ML_AI/. )
 ![流程图.jpg](https://upload-images.jianshu.io/upload_images/14325233-32aa30edc7c7f097.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
@@ -75,9 +77,11 @@
  2. 激活编辑界面时自动弹出tab，再次点击编辑界面空白地区时弹出输入法。
 
 ### 使用者交互及设计
-[流程图&功能构架&交互原型](https://sssakuraiii.github.io/API_ML_AI/. )
+[交互原型](https://sssakuraiii.github.io/API_ML_AI/. )
 ![交互.jpg](https://upload-images.jianshu.io/upload_images/14325233-2e7eeecef0c34c2d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 迭代功能
 - 搜索功能
 
+### 附件
+[流程图&功能构架&交互原型](https://sssakuraiii.github.io/API_ML_AI/. )
