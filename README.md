@@ -87,9 +87,11 @@
 
 
 ### 产品功能架构
+ [流程图&功能构架&交互原型](https://sssakuraiii.github.io/API_ML_AI/. )
 ![产品功能架构.jpg](https://upload-images.jianshu.io/upload_images/14325233-2fbcaa25c2d706bb.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 流程图
+ [流程图&功能构架&交互原型](https://sssakuraiii.github.io/API_ML_AI/. )
 ![流程图.jpg](https://upload-images.jianshu.io/upload_images/14325233-32aa30edc7c7f097.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
@@ -276,3 +278,5 @@ client.keyword(title, content);
 ### 迭代功能
 - 搜索功能
 
+### 附件
+  [流程图&功能构架&交互原型](https://sssakuraiii.github.io/API_ML_AI/. )
